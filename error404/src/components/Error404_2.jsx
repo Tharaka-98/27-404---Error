@@ -11,7 +11,7 @@ const Error404_2 = () => {
         </h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 p-2 sm:p-4 sm:mt-4 mt-2">
           <div className="flex flex-col justify-center text-[#0033a0]">
-            <h1 className="mt-2 text-xl md:mt-2 sm:text-3xl md:text-5xl font-medium sm:-mt-8">
+            <h1 className="mt-2 text-xl sm:text-3xl md:text-5xl font-medium sm:-mt-8">
               404 Page Not Found!
             </h1>
             <h1 className="text-xl md:text-3xl font-medium text-[#ff2c99] sm:mt-2 hidden sm:block">
